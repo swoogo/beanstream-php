@@ -1,5 +1,5 @@
 {
-    "name": "beanstream/beanstream",
+    "name": "swoogo/beanstream",
     "description": "Beanstream PHP API",
     "type": "library",
     "license": "MIT",
